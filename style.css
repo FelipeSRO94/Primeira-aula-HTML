@@ -1,0 +1,55 @@
+h1{
+    color: pink;
+}
+h2{
+    color: blue;
+}
+h3{ 
+    color: purple;
+}
+h4{
+    color: red;
+}
+h5{
+    color: green;
+}
+h6{
+    color: yellow;
+}
+ul{
+    background-color: gray;
+}
+ol{
+    background-color: orange;
+}
+th{
+    color: gold;
+    background-color: brown;
+}
+td{
+    color: darkblue;
+    background-color: cyan;
+}
+body{
+    background-color: black;
+}
+input{
+    width: 500px;
+    height: 200px;
+}
+label{
+    color: white;
+}
+table{
+    position: relative;
+    left: 480px;
+}
+.H{
+    background-color: blueviolet;
+    position: relative;
+    left: 450px;
+    width: 200px;
+}
+#Anabeli{
+    background-color: darkred;
+} 
